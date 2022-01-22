@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  CatchTheBart
 //
-//  Created by Eyüp Ensar Pirol on 15.01.2022.
-//
 
 import UIKit
 
